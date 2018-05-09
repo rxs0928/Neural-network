@@ -1,0 +1,4 @@
+1.CNN
+2.LSTM
+3.attention mechanism
+5.dynamic memory neural network
